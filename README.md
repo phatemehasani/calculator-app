@@ -8,4 +8,4 @@ A web calculator app built from scratch using **HTML, CSS, and Vanilla JavaScrip
 * Built with Vanilla JS (no frameworks).
 
 ## Live Demo
-[Insert your GitHub Pages link here]
+[https://phatemehasani.github.io/calculator-app/]
